@@ -10,4 +10,6 @@ wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/9kbSl/update-
 wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/SDleU/update-20200812T2325Z-users-deduped.jsonl.gz
 wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/B9AQx/update-20200813T2155Z-posts.jsonl.gz
 wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/FA3v8/update-20200813T2155Z-users-deduped.jsonl.gz
+wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/n7Q9N/update-20200814T1115Z-posts.jsonl.gz
+wget https://web.archive.org/web/2id_/https://transfer.notkiska.pw/IogpB/update-20200814T1115Z-users-deduped.jsonl.gz
 gzip -d *.gz
