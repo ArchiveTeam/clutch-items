@@ -23,7 +23,7 @@ def main():
                 })
     scores = sorted(scores, key=lambda x: x['score'], reverse=True)
     with open('video-high.jsonl', 'w') as f:
-        f.write('\n'.join([json.dumps(d) for d in scores[:500000]]))
+        f.write('\n'.join([json.dumps(d) for d in scores[:350000]]))
 
 if __name__ == '__main__':
     main()
